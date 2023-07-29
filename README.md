@@ -1,5 +1,4 @@
-
-[Screenshot 1](https://github.com/ukp-code/youtube_clone_react/assets/109540617/a83e665d-ece5-4e3a-b6a5-d9a186ee294a)
+![Screenshot 1](https://github.com/ukp-code/youtube_clone_react/assets/109540617/0f724712-356d-4a47-b31b-0fe007d3b759)
 ![Screenshot 2](https://github.com/ukp-code/youtube_clone_react/assets/109540617/1576b900-6146-4f63-a6d3-9b82a55a4531)
 ![Screenshot 3](https://github.com/ukp-code/youtube_clone_react/assets/109540617/4aea7d25-524d-4817-be0c-60cc2b3c41aa)
 
