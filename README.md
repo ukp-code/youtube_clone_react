@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+
+[Screenshot (10)](https://github.com/ukp-code/youtube_clone_react/assets/109540617/a83e665d-ece5-4e3a-b6a5-d9a186ee294a)
+
+
+# Getting Started with Create React App!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
